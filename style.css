@@ -129,7 +129,7 @@
   .env-front-names .half{
     font-family:'Dancing Script', cursive;
     font-weight:700;
-    font-size:clamp(27px,4.8vw,33px);
+    font-size:clamp(35px,4.8vw,41px);
     line-height:1.15;
     white-space:nowrap;
   }
